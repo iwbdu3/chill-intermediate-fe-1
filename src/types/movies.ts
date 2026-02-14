@@ -6,4 +6,5 @@ export interface IMovies {
   episode: string;
   genre: string;
   imageUrl: string;
+  badge?: string;
 }

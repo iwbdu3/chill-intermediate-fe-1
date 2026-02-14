@@ -16,6 +16,7 @@ const newMovies = [
     episode: "1 of 10",
     genre: "Drama, Action",
     imageUrl: "images/DutyAfterSchool.png",
+    badge: "Episode Baru",
   },
   {
     id: 3,

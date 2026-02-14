@@ -7,6 +7,7 @@ const trendingFilm = [
     episode: "1 of 10",
     genre: "Action, Sci-Fi",
     imageUrl: "images/TheTomorrowWar.png",
+    badge: "Top 10",
   },
   {
     id: 2,
@@ -16,6 +17,7 @@ const trendingFilm = [
     episode: "1 of 10",
     genre: "Action, Sci-Fi",
     imageUrl: "images/AntMan.png",
+    badge: "Top 10",
   },
   {
     id: 3,
@@ -25,6 +27,7 @@ const trendingFilm = [
     episode: "1 of 10",
     genre: "Action, Sci-Fi",
     imageUrl: "images/GuardiansofTheGalaxy.png",
+    badge: "Top 10",
   },
   {
     id: 4,
@@ -34,6 +37,7 @@ const trendingFilm = [
     episode: "1 of 10",
     genre: "Drama, Comedy",
     imageUrl: "images/AManCalledOtto2.png",
+    badge: "Top 10",
   },
   {
     id: 5,
@@ -43,6 +47,7 @@ const trendingFilm = [
     episode: "1 of 10",
     genre: "Fantasy, Romance",
     imageUrl: "images/TheLittleMermaid.png",
+    badge: "Top 10",
   },
   {
     id: 6,
@@ -51,8 +56,9 @@ const trendingFilm = [
     ageRating: "18+",
     episode: "1 of 10",
     genre: "Drama, Comedy",
-    imageUrl: "images/TheTomorrowWar.png"
-  }
+    imageUrl: "images/TheTomorrowWar.png",
+    badge: "Top 10",
+  },
 ];
 
 export default trendingFilm;
