@@ -6,7 +6,7 @@ const trendingFilm = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Action, Sci-Fi",
-    imageUrl: "../../public/images/TheTomorrowWar.png",
+    imageUrl: "images/TheTomorrowWar.png",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const trendingFilm = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Action, Sci-Fi",
-    imageUrl: "../../public/images/AntMan.png",
+    imageUrl: "images/AntMan.png",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const trendingFilm = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Action, Sci-Fi",
-    imageUrl: "../../public/images/GuardiansoftheGalaxy.png",
+    imageUrl: "images/GuardiansofTheGalaxy.png",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const trendingFilm = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Drama, Comedy",
-    imageUrl: "../../public/images/AManCalledOtto2.png",
+    imageUrl: "images/AManCalledOtto2.png",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const trendingFilm = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Fantasy, Romance",
-    imageUrl: "../../public/images/TheLittleMermaid.png",
+    imageUrl: "images/TheLittleMermaid.png",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const trendingFilm = [
     ageRating: "18+",
     episode: "1 of 10",
     genre: "Drama, Comedy",
-    imageUrl: "../../public/images/TheTomorrowWar.png"
+    imageUrl: "images/TheTomorrowWar.png"
   }
 ];
 

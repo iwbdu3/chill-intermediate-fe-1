@@ -6,7 +6,7 @@ const continueMovies = [
     ageRating: "18+",
     episode: "1 of 10",
     genre: "Drama, Comedy",
-    imageUrl: "../../public/images/DontLookUp.png",
+    imageUrl: "images/DontLookUp.png",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const continueMovies = [
     ageRating: "18+",
     episode: "1 of 10",
     genre: "Drama, Horror",
-    imageUrl: "../../public/images/AllofUsAreDead.png",
+    imageUrl: "images/AllofUsAreDead.png",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const continueMovies = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Drama, Sports",
-    imageUrl: "../../public/images/BlueLock.png",
+    imageUrl: "images/BlueLock.png",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const continueMovies = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Drama, Comedy",
-    imageUrl: "../../public/images/AManCalledOtto.png",
+    imageUrl: "images/AManCalledOtto.png",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const continueMovies = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Drama, Comedy",
-    imageUrl: "../../public/images/AManCalledOtto.png",
+    imageUrl: "images/AManCalledOtto.png",
   },
 ];
 

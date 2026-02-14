@@ -6,7 +6,7 @@ const topRatedMovies = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Drama, Fantasy",
-    imageUrl: "../../public/images/Suzume.png",
+    imageUrl: "images/Suzume.png",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const topRatedMovies = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Action, Adventure",
-    imageUrl: "../../public/images/JurassicWorld.png",
+    imageUrl: "images/JurassicWorld.png",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const topRatedMovies = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Action, Adventure",
-    imageUrl: "../../public/images/Sonic2.png",
+    imageUrl: "images/Sonic2.png",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const topRatedMovies = [
     ageRating: "18+",
     episode: "1 of 10",
     genre: "Drama, Horror",
-    imageUrl: "../../public/images/AllofUsAreDead2.png",
+    imageUrl: "images/AllofUsAreDead2.png",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const topRatedMovies = [
     ageRating: "13+",
     episode: "1 of 10",
     genre: "Animation, Action",
-    imageUrl: "../../public/images/BigHero6.png",
+    imageUrl: "images/BigHero6.png",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const topRatedMovies = [
     ageRating: "18+",
     episode: "1 of 10",
     genre: "Drama, Comedy",
-    imageUrl: "../../public/images/TheTomorrowWar.png"
+    imageUrl: "images/TheTomorrowWar.png"
   }
 ];
 export default topRatedMovies;
