@@ -14,7 +14,7 @@ const Badge = ({
     default: "bg-transparent border-white/50",
     "new-episode": "bg-blue-800 border-none font-bold px-3 sm:px-4",
     "top-10":
-      "bg-red-800 border-none font-bold rounded-tr-sm rounded-br-none rounded-tl-none rounded-bl-sm px-2 w-5 text-center",
+      "bg-red-800 border-none font-bold rounded-tr-sm rounded-br-none rounded-tl-none rounded-bl-sm px-2 w-5 text-center sm:w-8 sm:px-3",
   };
 
   return (

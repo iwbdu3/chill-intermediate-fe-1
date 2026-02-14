@@ -5,7 +5,7 @@ function MovieCard(props: IMovies) {
   const { title, imageUrl, badge } = props; 
 
   return (
-    <div className="relative w-25 sm:w-60 group cursor-pointer transition-transform duration-300 hover:scale-105">
+    <div className="relative w-25 sm:w-60 group cursor-pointer">
       <div className="relative aspect-2/3 w-full rounded-xl overflow-hidden border border-gray-800 shadow-lg">
         {/* Poster Image */}
         <img
@@ -28,10 +28,6 @@ function MovieCard(props: IMovies) {
           </div>
         )}
       </div>
-
-      <p className="text-white text-[10px] sm:text-sm mt-2 font-medium truncate">
-        {title}
-      </p>
     </div>
   );
 }
